@@ -441,12 +441,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - NINDS/NIH
-# - name: Indika Kahanda
+- name: Indika Kahanda
 #   orcid: null
 #   github: null
 #   twitter: null
-#   affiliations:
-#   - Montana State University
+affiliations:
+   - Montana State University
 # - name: Laurynas Kalesinskas
 #   orcid: null
 #   github: null
